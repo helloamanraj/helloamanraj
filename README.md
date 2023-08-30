@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.askpython.com/author/aman](https://www.askpython.com/author/aman)
 
-- 💬 Ask me about **SQL> PowerBi > ML > Statistics > Python > Excel > Credit Risk > Tableau**
+- 💬 Ask me about **SQL > PowerBi > ML > Statistics > Python > Excel > Credit Risk > Tableau**
 
 - 📫 How to reach me **amanraj.du.or.19@gmail.com**
 
